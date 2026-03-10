@@ -7,7 +7,7 @@ This repository provides the implementation of the Federated Stealth Learning In
 Experiments were conducted using the IoTID20 dataset.
 
 Download dataset:
-https://sites.google.com/view/iot-network-intrusion-dataset/home
+https://www.kaggle.com/datasets/rohulaminlabid/iotid20-dataset 
 
 Place the dataset file inside:
 
