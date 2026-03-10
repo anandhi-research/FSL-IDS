@@ -1,0 +1,15 @@
+dataset: IoTID20
+
+training:
+  batch_size: 64
+  learning_rate: 0.001
+  epochs: 5
+
+federated:
+  clients: 48
+  fog_nodes: 6
+  rounds: 120
+  participation_rate: 0.6
+
+compression:
+  quantization: 6bit
